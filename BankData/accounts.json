@@ -1,0 +1,56 @@
+[
+  {
+    "accountNumber": "ACC1754734008425",
+    "firstName": "Harshal",
+    "lastName": "Dangela",
+    "email": "hars@gmail.com",
+    "phoneNumber": "9373645187",
+    "accountType": "SAVINGS",
+    "balance": 50.0,
+    "passwordHash": "59qtSFf4J1HpVz+4mNVQlg\u003d\u003d:Wfl03Qx/3TSJmEQCpH+Nmw6E41NL2S1XbPsePuuOqcQ\u003d",
+    "createdDate": "2025-08-09T15:36:48.8430741",
+    "status": "ACTIVE",
+    "transactions": [
+      {
+        "transactionId": "TXN1754734008843",
+        "type": "DEPOSIT",
+        "amount": 100.0,
+        "balanceAfter": 100.0,
+        "timestamp": "2025-08-09T15:36:48.8430741",
+        "description": "Initial deposit"
+      },
+      {
+        "transactionId": "TXN1754734047910",
+        "type": "WITHDRAWAL",
+        "amount": 50.0,
+        "balanceAfter": 50.0,
+        "timestamp": "2025-08-09T15:37:27.9100566",
+        "description": "Cash withdrawal"
+      }
+    ],
+    "interestRate": 0.03
+  },
+  {
+    "accountNumber": "ACC1754734113350",
+    "firstName": "Harsh",
+    "lastName": "d",
+    "email": "hrs@gmail.com",
+    "phoneNumber": "1234123412",
+    "accountType": "SAVINGS",
+    "balance": 200.0,
+    "passwordHash": "90n5+dnVyw/J+KVnW9rHJA\u003d\u003d:IhWWbisFRbgkAItGOwQ9wwCihOz9Fa9ziD5laoYqlfg\u003d",
+    "createdDate": "2025-08-09T15:38:33.3941647",
+    "status": "ACTIVE",
+    "transactions": [
+      {
+        "transactionId": "TXN1754734113394",
+        "type": "DEPOSIT",
+        "amount": 200.0,
+        "balanceAfter": 200.0,
+        "timestamp": "2025-08-09T15:38:33.3941647",
+        "description": "Initial deposit"
+      }
+    ],
+    "interestRate": 0.03
+  }
+]
